@@ -15,6 +15,7 @@ questions to History and Geography categories as well as multiple levels and sou
 May need to run as administrator on Windows from PythonPals-2.1.2
 pip install . 
 
+Hello
 
 
 ## Run executable command 
